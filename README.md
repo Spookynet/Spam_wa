@@ -1,4 +1,4 @@
-<h2 align="center">OTP TERROR</h2>
+<h2 align="center">spam_wa</h2>
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=language&message=Bourne+Again+Shell&color=green&logo=nano">
   <img src="https://img.shields.io/static/v1?label=Framework&message=Bash+ID&color=green&logo=reddit"><br>
@@ -7,7 +7,7 @@
 </p>
 
 <br>
-Otp Terror merupakan sebuah program yang di buat dengan bash berfungsi untuk melakukan aksi teror pada target
+spam wa merupakan sebuah program yang di buat dengan bash berfungsi untuk melakukan aksi teror pada target
 dengan bermodalkan nomor telepon target
 <br>
 
@@ -33,13 +33,11 @@ apt install python-pip mpv
 pip install rich
 pip install rich-cli
 gem install lolcat
-git clone https://github.com/Bayu12345677/OTP_TERROR.git
-cd OTP_TERROR
+git clone https://github.com/spookynet/spam_wa.git
+cd spam_wa
 make setup
 make Run
 ```
 </details>
 
-- List otp
-> - sms<br>
-> - whatsapp<br>
+- Terimakasih
